@@ -1,0 +1,1 @@
+This code is part of the Dev.to article. Click [Here](https://dev.to/marcosnathan/how-to-configure-kotlinx-serialization-in-spring-boot-mvc-rest-client-4h61) to read it. 
